@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadHelperExample", "ThreadHelperExample\ThreadHelperExample.csproj", "{1447C54D-3AB0-4F60-8CD5-9962B505F86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadHelperExampleComplete", "ThreadHelperExampleComplete\ThreadHelperExampleComplete.csproj", "{91BE501C-3F0C-49BE-B6BC-9C530138D0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1447C54D-3AB0-4F60-8CD5-9962B505F86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1447C54D-3AB0-4F60-8CD5-9962B505F86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1447C54D-3AB0-4F60-8CD5-9962B505F86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1447C54D-3AB0-4F60-8CD5-9962B505F86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BE501C-3F0C-49BE-B6BC-9C530138D0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BE501C-3F0C-49BE-B6BC-9C530138D0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BE501C-3F0C-49BE-B6BC-9C530138D0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BE501C-3F0C-49BE-B6BC-9C530138D0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197941A9-329F-4480-80BB-A901325B03F2}
+	EndGlobalSection
+EndGlobal
